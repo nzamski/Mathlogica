@@ -1,0 +1,15 @@
+.paper-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.paper-content {
+  width: 100%;
+  max-width: 800px; /* Adjust this to control the paper width */
+  background-color: white;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for the paper effect */
+  border: 1px solid #e0e0e0;
+}

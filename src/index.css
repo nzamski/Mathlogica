@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Rubik;
+  src: url("./assets/fonts/Rubik-VariableFont_wght.ttf") format("truetype");
+}
+
+#root {
+  font-family: Rubik, sans-serif;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+}
